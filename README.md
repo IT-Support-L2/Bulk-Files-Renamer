@@ -7,3 +7,6 @@ Bulk Files Renamer allows you to renmae thousands files in few seconds only! Tha
 
 - Developed with Python 3.9.0
 
+
+![BulkFilesRenamer.gif](https://github.com/IT-Support-L2/Bulk-Files-Renamer/blob/main/BulkFilesRenamer.gif)
+
