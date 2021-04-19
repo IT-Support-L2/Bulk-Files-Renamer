@@ -8,7 +8,7 @@ Bulk Files Renamer allows you to renmae thousands files in few seconds only! Tha
 - Developed with Python 3.9.0
 
 
-To successfully compile the code into Windows executable, while you are in the BulkFileRenamer directory run:
+To successfully compile the code into Windows executable, while you are in the BulkFileRenamer.py directory run:
 
 ```
 pyinstaller --noconsole BulkFileRenamer.py
