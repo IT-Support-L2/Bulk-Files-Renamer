@@ -1,6 +1,6 @@
 # Bulk-Files-Renamer
 
-Bulk Files Renamer allows you to renmae thousands files in few seconds only! Thank to Python threading thechnique.
+Bulk Files Renamer allows you to rename thousands files in few seconds only! Thanks to Python threading technique.
 
 
 - tkinter GUI drawn with PAGE but I modified most part of the generated code.
