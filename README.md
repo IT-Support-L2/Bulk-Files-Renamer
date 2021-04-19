@@ -39,6 +39,8 @@ Bulk Files Renamer allows you to rename thousands files in few seconds only! Tha
    minimum distinction.
    
    Exemple: Let's suppose you have multiple xlsx files which are related to a single project of a Hotel financial report, simply input Hotel or the hotel's name.
+   
+   So if you have for exemple 100 xlsx file, names will be Hotel1 Hotel2 Hotel3 and so on.
 
 To successfully compile the code into Windows executable, while you are in the BulkFileRenamer.py directory run:
 
