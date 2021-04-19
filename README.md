@@ -13,6 +13,7 @@ Bulk Files Renamer allows you to rename thousands files in few seconds only! Tha
    You should input the folder directory, where your files are located.
    
    Example:  C:/Users/user/Desktop/Folder/
+   
    Hint: In windows, you should replace all Backslash with Forward Slash
    and add another Forward Slash after the folder name like the following.
    
