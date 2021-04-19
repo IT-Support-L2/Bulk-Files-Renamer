@@ -18,6 +18,7 @@ Bulk Files Renamer allows you to rename thousands files in few seconds only! Tha
    and add another Forward Slash after the folder name like the following.
    
    Wrong path input:       C:\\Users\\user\\Desktop\\folder
+   
    Correct path input:   C:/Users/user/Desktop/folder/
         
  • What should I input in extension?
@@ -30,8 +31,7 @@ Bulk Files Renamer allows you to rename thousands files in few seconds only! Tha
    You should input the name which will be used for all files with the same extension. Don't worry, each file with the new name will be incremented by one to maintain
    minimum distinction.
    
-   Exemple: Let's suppose you have multiple xlsx files which are related to a single project
-   of a Hotel financial report, simply input Hotel or the hotel's name.
+   Exemple: Let's suppose you have multiple xlsx files which are related to a single project of a Hotel financial report, simply input Hotel or the hotel's name.
 
 To successfully compile the code into Windows executable, while you are in the BulkFileRenamer.py directory run:
 
