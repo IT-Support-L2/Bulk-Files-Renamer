@@ -1,6 +1,6 @@
 # Bulk-Files-Renamer
 
-Bulk Files Renamer allows you to rename thousands files in few seconds only! Thanks to Python threading technique.
+Bulk Files Renamer allows you to rename thousands files selected by its extension in few seconds only! Thanks to Python threading technique.
 
 
 - tkinter GUI drawn with PAGE but I modified most part of the generated code.
@@ -17,7 +17,7 @@ Bulk Files Renamer allows you to rename thousands files in few seconds only! Tha
    Hint: In windows, you should replace all Backslash with Forward Slash
    and add another Forward Slash after the folder name like the following.
    
-   Wrong path input:       ```C:\\Users\\user\\Desktop\\folder```
+   Wrong path input:       ```C:\Users\user\Desktop\folder```
    
    Correct path input:     ```C:/Users/user/Desktop/folder/```
         
