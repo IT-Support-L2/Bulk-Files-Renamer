@@ -3,7 +3,7 @@
 Bulk Files Renamer allows you to rename thousands files selected by its extension in few seconds only! Thanks to Python threading technique.
 
 
-- tkinter GUI drawn with PAGE but I modified most part of the generated code.
+- tkinter GUI designed with PAGE but I modified most part of the generated code.
 
 - Developed with Python 3.9.0
 
