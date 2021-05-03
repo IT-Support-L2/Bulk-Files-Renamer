@@ -5,7 +5,7 @@ Bulk Files Renamer allows you to rename thousands files selected by its extensio
 
 - tkinter GUI designed with PAGE but I modified most part of the generated code.
 
-- Developed with Python 3.9.0
+- Developed with Python 3.9.0 and tkinter. 
 
 
  • What should I input in Path?
