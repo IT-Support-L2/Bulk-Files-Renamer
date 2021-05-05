@@ -281,6 +281,7 @@ class App:
                     os.rename(src, new_names)
                             
             self.result_output.configure(text="done!")
+            self.rename_button.config(text="Start", command=self.startthread)
             
         except OSError:
             self.result_output.configure(text="Looks like there is wrong input! Please check and try again!")
