@@ -48,5 +48,7 @@ To successfully compile the code into Windows executable, while you are in the B
 pyinstaller --noconsole BulkFileRenamer.py
 ```
 
+Else, install it via the provided setup.
+
 ![BulkFilesRenamer.gif](https://github.com/IT-Support-L2/Bulk-Files-Renamer/blob/main/BulkFilesRenamer.gif)
 
